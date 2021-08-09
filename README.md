@@ -14,7 +14,7 @@ O nosso Database utilizado essa semana foi o {reprograma-musics}
 ## Novos Documentos
 
 ```
-db.passengers.insertMany([
+db.musics.insertMany([
     {
       "id":"110908332",
       "title":"Light It Up (feat. Nyla & Fuse ODG) (Remix)",
