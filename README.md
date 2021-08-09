@@ -5,7 +5,7 @@
 
 Essa semana fizemos uma API sobre músicas que se comunicava diretamente com o banco de dados (usamos o MongoDB)
 
-![gif "a boy dancing"](img/dancing.gif)
+![gif "a boy dancing"](musicas/img/dancing.gif)
 
 ## Database 
 
@@ -171,4 +171,4 @@ response:
 
 Arrasta o sofá e vem curtir também :woman_dancing:
 
-![gif the office dancing"](img/source.gif)
+![gif the office dancing"](musicas/img/source.gif)
